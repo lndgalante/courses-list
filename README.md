@@ -1,6 +1,6 @@
 # courses-made
 
-A list of courses that I finished or that I'm currently doing
+A list of courses that I like and I'm doing.
 
 ## [Egghead.io](https://egghead.io)
 
