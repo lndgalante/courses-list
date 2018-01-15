@@ -2,7 +2,14 @@
 
 A list of courses that I like and I'm doing.
 
-## [Egghead.io](https://egghead.io)
+## Curated list of tutorials by technology
+
+* [ES2015](https://github.com/lndgalante/my-es6-list)
+* [Flexbox](https://github.com/lndgalante/my-flexbox-list)
+* [React](https://github.com/lndgalante/my-react-list) | [React Native](https://github.com/lndgalante/my-react-native-list) | [Redux](https://github.com/lndgalante/my-redux-list)
+* [Node / Express / MongoDB](https://github.com/lndgalante/my-node-list) | [GraphQL](https://github.com/lndgalante/my-graphql-list)
+
+### [Egghead.io](https://egghead.io)
 
 1. #### [HTML](https://egghead.io/browse/languages/html)
 
@@ -73,7 +80,7 @@ A list of courses that I like and I'm doing.
 
 1. #### [More tools](https://egghead.io/browse/tools)
 
-## [Frontend Masters](https://frontendmasters.com)
+### [Frontend Masters](https://frontendmasters.com)
 
 * [ ] [Visual Studio Code](https://frontendmasters.com/courses/visual-studio-code)
 * [ ] [Web Security](https://frontendmasters.com/courses/web-security)
@@ -131,7 +138,7 @@ A list of courses that I like and I'm doing.
 * [ ] [Introduction to HTML5 and CSS3](https://frontendmasters.com/courses/introduction-html5-css3/)
 * [ ] [Introduction to JavaScript and jQuery](https://frontendmasters.com/courses/introduction-to-javascript-jquery/)
 
-## [Wes Bos](http://wesbos.com/courses)
+### [Wes Bos](http://wesbos.com/courses)
 
 * [x] [What The Flexbox?!](https://flexbox.io)
 * [x] [JavaScript30](https://javascript30.com)
@@ -142,7 +149,7 @@ A list of courses that I like and I'm doing.
 * [ ] [Command Line Power User](https://commandlinepoweruser.com)
 * [ ] [Learn Node](https://learnnode.com)
 
-## [EDX](https://www.edx.org)
+### [EDX](https://www.edx.org)
 
 * [x] [JavaScript, HTML and CSS Web Development](https://courses.edx.org/courses/course-v1:Microsoft+DEV211.1x+1T2016/course)
 * [x] [HTML5 Part 1: HTML5 Coding Essentials and Best Practices](https://courses.edx.org/courses/course-v1:W3Cx+HTML5.0x+2T_2016/course)
@@ -156,7 +163,7 @@ A list of courses that I like and I'm doing.
 * [ ] [Introduction to Node.js](https://www.edx.org/es/course/introduction-node-js-microsoft-dev283x)
 * [ ] [Introduction to Computer science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course)
 
-## [CodeSchool](https://www.codeschool.com/users/lndgalante)
+### [CodeSchool](https://www.codeschool.com/users/lndgalante)
 
 1. #### [HTML/CSS Path](https://www.codeschool.com/learn/html-css)
 
