@@ -179,13 +179,14 @@ A list of courses that I like and I'm doing.
 
 ---
 
-### [Wes Bos](http://wesbos.com/courses) `80$ / course`
+### [Wes Bos](http://wesbos.com/courses) `~80$ / course`
 
 * [x] [What The Flexbox?!](https://flexbox.io)
 * [x] [JavaScript30](https://javascript30.com)
 * [x] [ES6 for Everyone](https://es6.io)
 * [x] [React For Beginners](https://reactforbeginners.com)
 * [x] [Learn Redux](https://learnredux.com)
+* [ ] [CSS Grids](https://cssgrid.io)
 * [ ] [Mastering Markdown](https://masteringmarkdown.com)
 * [ ] [Command Line Power User](https://commandlinepoweruser.com)
 * [ ] [Learn Node](https://learnnode.com)
