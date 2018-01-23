@@ -139,6 +139,7 @@ A list of courses that I like and I'm doing.
 
 ### [Frontend Masters](https://frontendmasters.com) `($40 / month)`
 
+* [ ] [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts)
 * [ ] [Visual Studio Code](https://frontendmasters.com/courses/visual-studio-code)
 * [ ] [Web Security](https://frontendmasters.com/courses/web-security)
 * [ ] [Advanced State Management in React](https://frontendmasters.com/courses/react-state)
