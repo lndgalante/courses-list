@@ -11,6 +11,24 @@ A list of courses that I like and I'm doing.
 
 ---
 
+### [Pluralsight](https://www.pluralsight.com) `($30 / month)`
+
+1. #### [Upgrading Your Technology Career](https://app.pluralsight.com/paths/certificate/upgrading-your-technology-career)
+
+1. #### [Communications for Technologists](https://app.pluralsight.com/paths/certificate/communications-for-technologists)
+
+1. #### [HTML Path](https://app.pluralsight.com/paths/skills/html5)
+
+1. #### [CSS Path](https://app.pluralsight.com/paths/skills/css)
+
+1. #### [JS Path](https://app.pluralsight.com/paths/skills/javascript)
+
+1. #### [React Path](https://app.pluralsight.com/paths/skills/react)
+
+1. #### [Node Path](https://app.pluralsight.com/paths/skills/node-js)
+
+---
+
 ### [Egghead.io](https://egghead.io) `($40 / month)`
 
 1. #### [HTML](https://egghead.io/browse/languages/html)
