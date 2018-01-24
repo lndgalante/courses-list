@@ -221,6 +221,16 @@ A list of courses that I like and I'm doing.
 
 ---
 
+### [Udacity](https://www.udacity.com) `(~$200 / nanodegree)`
+
+1. #### [Design Sprint Nanodegree](https://www.udacity.com/course/design-sprint-foundations--nd201#)
+
+1. #### [Front End Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)
+
+1. #### [React Developer Nanodegree](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ### [EDX](https://www.edx.org) `free courses`
 
 * [x] [JavaScript, HTML and CSS Web Development](https://courses.edx.org/courses/course-v1:Microsoft+DEV211.1x+1T2016/course)
