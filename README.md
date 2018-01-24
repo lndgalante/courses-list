@@ -198,7 +198,7 @@ A list of courses that I like and I'm doing.
 
 ---
 
-### [Wes Bos](http://wesbos.com/courses) `~80$ / course`
+### [Wes Bos](http://wesbos.com/courses) `(~80$ / course)`
 
 * [x] [What The Flexbox?!](https://flexbox.io)
 * [x] [JavaScript30](https://javascript30.com)
@@ -212,7 +212,7 @@ A list of courses that I like and I'm doing.
 
 ---
 
-### [Tyler Mcginnis](https://tylermcginnis.com/courses) `15$ / month`
+### [Tyler Mcginnis](https://tylermcginnis.com/courses) `(15$ / month)`
 
 * [ ] [Modern JavaScript (ES6+)](https://tylermcginnis.com/courses/modern-javascript)
 * [ ] [React Fundamentals](https://tylermcginnis.com/courses/react-fundamentals)
@@ -228,6 +228,22 @@ A list of courses that I like and I'm doing.
 * [ ] [Front End Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)
 
 * [ ] [React Developer Nanodegree](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
+### [Platzi](https://www.udacity.com) `(~$20 / month)`
+
+* [ ] [Carrera de Diseño de productos digitales y UX](https://platzi.com/producto)
+
+* [ ] [Carrera de Arquitecto Frontend](https://platzi.com/arquitecto)
+
+* [ ] [Carrera de Desarrollador React](https://platzi.com/desarrollo-react)
+
+* [ ] [Carrera de Desarrollador JavaScript](https://platzi.com/javascript)
+
+* [ ] [Carrera de Base de Datos](https://platzi.com/base-de-datos)
+
+* [ ] [Carrera de Negocios Online](https://platzi.com/negocios)
 
 ---
 
@@ -247,7 +263,7 @@ A list of courses that I like and I'm doing.
 
 ---
 
-### [CodeSchool](https://www.codeschool.com/users/lndgalante) `30$ / month`
+### [CodeSchool](https://www.codeschool.com/users/lndgalante) `(30$ / month)`
 
 1. #### [HTML/CSS Path](https://www.codeschool.com/learn/html-css)
 
