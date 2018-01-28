@@ -1,13 +1,19 @@
 # courses-made
 
-A list of courses that I like and I'm doing.
+A list of courses from different platforms
 
 ### My curated lists
 
 * [ES2015](https://github.com/lndgalante/my-es6-list)
-* [Flexbox](https://github.com/lndgalante/my-flexbox-list)
+* [Flexbox](https://github.com/lndgalante/my-flexbox-list) | [CSS Grids](https://github.com/lndgalante/my-css-grids-list)
 * [React](https://github.com/lndgalante/my-react-list) | [React Native](https://github.com/lndgalante/my-react-native-list) | [Redux](https://github.com/lndgalante/my-redux-list)
 * [Node / Express / MongoDB](https://github.com/lndgalante/my-node-list) | [GraphQL](https://github.com/lndgalante/my-graphql-list)
+
+### Public profiles
+
+* [Acamica](https://www.acamica.com/@Finwe)
+* [Pluralsight](https://app.pluralsight.com/profile/leonardo-galante)
+* [Codeschool](https://www.codeschool.com/users/lndgalante)
 
 ---
 
@@ -198,6 +204,13 @@ A list of courses that I like and I'm doing.
 
 ---
 
+### [Dave Geddes](http://gedd.ski) `(free && paid)`
+
+* [ ] [Grid Critters](https://gridcritters.com)
+* [ ] [Flexbox Zombies](https://flexboxzombies.com)
+
+---
+
 ### [Wes Bos](http://wesbos.com/courses) `(~80$ / course)`
 
 * [x] [What The Flexbox?!](https://flexbox.io)
@@ -311,3 +324,10 @@ A list of courses that I like and I'm doing.
    * [ ] [Breaking the Ice With Regular Expressions](https://www.codeschool.com/courses/breaking-the-ice-with-regular-expressions)
    * [ ] [Discover DevTools](https://www.codeschool.com/courses/discover-devtools)
    * [ ] [Try Docker](https://www.codeschool.com/courses/try-docker)
+
+---
+
+### [Acamica](https://www.codeschool.com/users/lndgalante) `(80$ / month)`
+
+* [ ] [Full Stack Developer Path](https://www.acamica.com/full-stack-online)
+* [ ] [UI/UX Design Path](https://www.acamica.com/ui-ux-online)
