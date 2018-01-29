@@ -17,6 +17,10 @@ A list of courses from different platforms
 
 ---
 
+### [freeCodeCamp](https://beta.freecodecamp.org/en/) `(free)`
+
+---
+
 ### [Pluralsight](https://www.pluralsight.com) `($30 / month)`
 
 1. #### [Upgrading Your Technology Career](https://app.pluralsight.com/paths/certificate/upgrading-your-technology-career)
@@ -276,7 +280,7 @@ A list of courses from different platforms
 
 ---
 
-### [CodeSchool](https://www.codeschool.com/users/lndgalante) `(30$ / month)`
+### [CodeSchool](https://www.codeschool.com) `(30$ / month)`
 
 1. #### [HTML/CSS Path](https://www.codeschool.com/learn/html-css)
 
@@ -327,7 +331,14 @@ A list of courses from different platforms
 
 ---
 
-### [Acamica](https://www.codeschool.com/users/lndgalante) `(80$ / month)`
+### [Acamica](https://www.acamica.com) `(80$ / month)`
 
 * [ ] [Full Stack Developer Path](https://www.acamica.com/full-stack-online)
 * [ ] [UI/UX Design Path](https://www.acamica.com/ui-ux-online)
+
+---
+
+### [TreeHouse](https://www.codeschool.com/users/lndgalante) `(200$ / month)`
+
+* [ ] [Front End Web Development Techdegree](https://teamtreehouse.com/techdegree/front-end-web-development)
+* [ ] [Full Stack JavaScript Techdegree](https://teamtreehouse.com/techdegree/full-stack-javascript)
