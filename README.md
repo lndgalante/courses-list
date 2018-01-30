@@ -11,13 +11,23 @@ A list of courses from different platforms
 
 ### Public profiles
 
+* [Udemy](https://www.udemy.com/user/leonardo-galante-2)
 * [Acamica](https://www.acamica.com/@Finwe)
 * [Pluralsight](https://app.pluralsight.com/profile/leonardo-galante)
 * [Codeschool](https://www.codeschool.com/users/lndgalante)
 
----
+### Platforms
 
 ### [freeCodeCamp](https://beta.freecodecamp.org/en/) `(free)`
+
+---
+
+### [Udemy](https://www.udemy.com) `(varies per course)`
+
+* [x] [Modern React with Redux](https://www.udemy.com/react-redux)
+* [ ] [React 16 - The Complete Guide (incl. React Router 4 & Redux)](https://www.udemy.com/react-the-complete-guide-incl-redux)
+* [ ] [The Complete React Web Developer Course (with Redux)](https://www.udemy.com/react-2nd-edition)
+* [ ] [GraphQL with React: The Complete Developers Guide](https://www.udemy.com/graphql-with-react-course)
 
 ---
 
@@ -149,6 +159,7 @@ A list of courses from different platforms
 
 ### [Frontend Masters](https://frontendmasters.com) `($40 / month)`
 
+* [ ] [CSS Grids and Flexbox for Responsive Web Design](https://frontendmasters.com/courses/css-grids-flexbox/)
 * [ ] [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts)
 * [ ] [Visual Studio Code](https://frontendmasters.com/courses/visual-studio-code)
 * [ ] [Web Security](https://frontendmasters.com/courses/web-security)
