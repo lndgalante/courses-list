@@ -26,6 +26,10 @@ A list of courses from different platforms
 
 ---
 
+### [Scotch.io](https://scotch.io) `($20 / month)`
+
+---
+
 ### [Front End Center](https://frontend.center) `($15 / month)`
 
 ---
