@@ -18,7 +18,15 @@ A list of courses from different platforms
 
 ### Platforms
 
-### [freeCodeCamp](https://beta.freecodecamp.org/en/) `(free)`
+### [freeCodeCamp](https://beta.freecodecamp.org/en) `(free)`
+
+---
+
+### [Microsoft Virtual Academy](https://mva.microsoft.com) `(free)`
+
+---
+
+### [Front End Center](https://frontend.center) `($15 / month)`
 
 ---
 
@@ -159,7 +167,8 @@ A list of courses from different platforms
 
 ### [Frontend Masters](https://frontendmasters.com) `($40 / month)`
 
-* [ ] [CSS Grids and Flexbox for Responsive Web Design](https://frontendmasters.com/courses/css-grids-flexbox/)
+* [ ] [CSS3 In-Depth v2](https://frontendmasters.com/courses/css-in-depth-v2)
+* [ ] [CSS Grids and Flexbox for Responsive Web Design](https://frontendmasters.com/courses/css-grids-flexbox)
 * [ ] [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts)
 * [ ] [Visual Studio Code](https://frontendmasters.com/courses/visual-studio-code)
 * [ ] [Web Security](https://frontendmasters.com/courses/web-security)
@@ -209,7 +218,6 @@ A list of courses from different platforms
 * [ ] [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/)
 * [ ] [Advanced JavaScript](https://frontendmasters.com/courses/advanced-javascript/)
 * [ ] [HTML5 Media: Audio, Video & WebRTC](https://frontendmasters.com/courses/html5-media-apis/)
-* [ ] [CSS3 In-Depth](https://frontendmasters.com/courses/css3-in-depth/)
 * [ ] [Lean Front-End Engineering](https://frontendmasters.com/courses/lean-front-end-engineering)
 * [ ] [Responsive Web Design](https://frontendmasters.com/courses/responsive-web-design/)
 * [ ] [Website Performance](https://frontendmasters.com/courses/website-performance/)
