@@ -26,6 +26,16 @@ A list of courses from different platforms
 
 ---
 
+### [MongoDB University](https://university.mongodb.com) `(free)`
+* [ ] [M001: MongoDB Basics](https://university.mongodb.com/courses/M001/about)
+* [ ] [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about)
+* [ ] [M036: New Features and Tools in MongoDB 3.6](https://university.mongodb.com/courses/M036/about)
+* [ ] [M201: MongoDB Performance](https://university.mongodb.com/courses/M201/about)
+* [ ] [M310: MongoDB Security](https://university.mongodb.com/courses/M310/about)
+* [ ] [M312: Diagnostics and Debugging](https://university.mongodb.com/courses/M312/about)
+
+---
+
 ### [Scotch.io](https://scotch.io) `($20 / month)`
 
 ---
@@ -37,7 +47,7 @@ A list of courses from different platforms
 ### [Udemy](https://www.udemy.com) `(varies per course)`
 
 * [x] [Modern React with Redux](https://www.udemy.com/react-redux)
-* [ ] [React 16 - The Complete Guide (incl. React Router 4 & Redux)](https://www.udemy.com/react-the-complete-guide-incl-redux)
+* [x] [React 16 - The Complete Guide (incl. React Router 4 & Redux)](https://www.udemy.com/react-the-complete-guide-incl-redux)
 * [ ] [The Complete React Web Developer Course (with Redux)](https://www.udemy.com/react-2nd-edition)
 * [ ] [GraphQL with React: The Complete Developers Guide](https://www.udemy.com/graphql-with-react-course)
 
@@ -127,7 +137,7 @@ A list of courses from different platforms
 
    * [x] [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
    * [x] [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
-   * [ ] [Build A React App With Redux](https://egghead.io/courses/build-a-react-app-with-redux)
+   * [x] [Build A React App With Redux](https://egghead.io/courses/build-a-react-app-with-redux)
    * [ ] [Async React with Redux Saga](https://egghead.io/courses/async-react-with-redux-saga)
    * [ ] [Reduce Redux Boilerplate with Redux-Actions](https://egghead.io/courses/reduce-redux-boilerplate-with-redux-actions)
 
@@ -171,6 +181,7 @@ A list of courses from different platforms
 
 ### [Frontend Masters](https://frontendmasters.com) `($40 / month)`
 
+* [ ] [REST & GraphQL API Design in Node.js, v2 (using Express & MongoDB)](https://frontendmasters.com/courses/api-node-rest-graphql)
 * [ ] [CSS3 In-Depth v2](https://frontendmasters.com/courses/css-in-depth-v2)
 * [ ] [CSS Grids and Flexbox for Responsive Web Design](https://frontendmasters.com/courses/css-grids-flexbox)
 * [ ] [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts)
@@ -194,7 +205,8 @@ A list of courses from different platforms
 * [ ] [Code Robust APIs with the Hapi.js Server Framework for Node.js](https://frontendmasters.com/courses/hapi-js/)
 * [ ] [Firebase + React: Real-time, Serverless Web Apps](https://frontendmasters.com/courses/firebase-react/)
 * [ ] [Data Structures and Algorithms in JavaScript](https://frontendmasters.com/courses/data-structures-algorithms/)
-* [ ] [Full Stack for Front End Engineers](https://frontendmasters.com/courses/full-stack)
+* [ ] [Full Stack for Front End Engineers Part 2](https://frontendmasters.com/courses/full-stack-v2)
+* [ ] [Full Stack for Front End Engineers Part 1](https://frontendmasters.com/courses/full-stack)
 * [ ] [Build Cross-Platform Desktop Apps with Electron](https://frontendmasters.com/courses/electron)
 * [ ] [Secure Authentication for Web Apps & APIs Using JWTs](https://frontendmasters.com/courses/secure-auth-jwt)
 * [ ] [Website Accessibility](https://frontendmasters.com/courses/web-accessibility)
