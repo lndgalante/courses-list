@@ -27,6 +27,7 @@ A list of courses from different platforms
 ---
 
 ### [MongoDB University](https://university.mongodb.com) `(free)`
+
 * [ ] [M001: MongoDB Basics](https://university.mongodb.com/courses/M001/about)
 * [ ] [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about)
 * [ ] [M036: New Features and Tools in MongoDB 3.6](https://university.mongodb.com/courses/M036/about)
@@ -181,6 +182,7 @@ A list of courses from different platforms
 
 ### [Frontend Masters](https://frontendmasters.com) `($40 / month)`
 
+* [ ] [Git In-depth](https://frontendmasters.com/courses/git-in-depth)
 * [ ] [REST & GraphQL API Design in Node.js, v2 (using Express & MongoDB)](https://frontendmasters.com/courses/api-node-rest-graphql)
 * [ ] [CSS3 In-Depth v2](https://frontendmasters.com/courses/css-in-depth-v2)
 * [ ] [CSS Grids and Flexbox for Responsive Web Design](https://frontendmasters.com/courses/css-grids-flexbox)
