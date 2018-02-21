@@ -123,6 +123,7 @@ A list of courses from different platforms
 
 1. #### [React](https://egghead.io/browse/frameworks/react)
 
+   * [x] [Build a Server-rendered ReactJS Application with Next.js](https://egghead.io/courses/build-a-server-rendered-reactjs-application-with-next-js)
    * [x] [Start Learning React](https://egghead.io/courses/start-learning-react)
    * [x] [The Beginner's Guide to ReactJS](https://egghead.io/courses/the-beginner-s-guide-to-reactjs)
    * [ ] [React Testing Cookbook](https://egghead.io/courses/react-testing-cookbook)
