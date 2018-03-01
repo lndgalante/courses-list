@@ -183,6 +183,7 @@ A list of courses from different platforms
 
 ### [Frontend Masters](https://frontendmasters.com) `($40 / month)`
 
+* [ ] [JavaScript: From Fundamentals to Functional JS v2](https://frontendmasters.com/courses/js-fundamentals-functional-v2)
 * [ ] [Git In-depth](https://frontendmasters.com/courses/git-in-depth)
 * [ ] [REST & GraphQL API Design in Node.js, v2 (using Express & MongoDB)](https://frontendmasters.com/courses/api-node-rest-graphql)
 * [ ] [CSS3 In-Depth v2](https://frontendmasters.com/courses/css-in-depth-v2)
@@ -230,7 +231,6 @@ A list of courses from different platforms
 * [ ] [UI Prototyping with Framer.js](https://frontendmasters.com/courses/ui-prototyping-framer/)
 * [ ] [Responsive HTML Email Design](https://frontendmasters.com/courses/responsive-email/)
 * [ ] [Advanced JS Fundamentals to jQuery & Pure DOM Scripting](https://frontendmasters.com/courses/javascript-jquery-dom/)
-* [ ] [JavaScript: From Fundamentals to Functional JS](https://frontendmasters.com/courses/js-fundamentals-to-functional/)
 * [ ] [Responsive Typography](https://frontendmasters.com/courses/responsive-typography/)
 * [ ] [Introduction to Web Development](https://frontendmasters.com/courses/web-development/)
 * [ ] [Real-Time Web with Node.js](https://frontendmasters.com/courses/realtime-html5-nodejs/)
