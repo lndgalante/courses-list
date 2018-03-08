@@ -1,28 +1,26 @@
-# courses-made
+# Courses
 
-A list of courses from different platforms
-
-### My curated lists
-
-* [ES2015](https://github.com/lndgalante/my-es6-list)
-* [Flexbox](https://github.com/lndgalante/my-flexbox-list) | [CSS Grids](https://github.com/lndgalante/my-css-grids-list)
-* [React](https://github.com/lndgalante/my-react-list) | [React Native](https://github.com/lndgalante/my-react-native-list) | [Redux](https://github.com/lndgalante/my-redux-list)
-* [Node / Express / MongoDB](https://github.com/lndgalante/my-node-list) | [GraphQL](https://github.com/lndgalante/my-graphql-list)
-
-### Public profiles
-
-* [Udemy](https://www.udemy.com/user/leonardo-galante-2)
-* [Acamica](https://www.acamica.com/@Finwe)
-* [Pluralsight](https://app.pluralsight.com/profile/leonardo-galante)
-* [Codeschool](https://www.codeschool.com/users/lndgalante)
-
-### Platforms
+> A list of courses from different platforms/mentors
 
 ### [freeCodeCamp](https://beta.freecodecamp.org/en) `(free)`
 
 ---
 
 ### [Microsoft Virtual Academy](https://mva.microsoft.com) `(free)`
+
+---
+
+### [Node University](https://node.university) `(free and paid)`
+
+* [ ] [Node and MongoDB Foundation](https://node.university/p/node-npm-and-mongodb-foundation)
+* [ ] [You Don't Know Node](https://node.university/p/you-dont-know-node)
+* [ ] [HTTP/2 with Node and Express](https://node.university/p/h2-node)
+* [ ] [Node in Production Using Docker and AWS](https://node.university/p/node-in-production)
+* [ ] [Node Toolchain](https://node.university/p/node-toolchain)
+* [ ] [Node Advanced
+      ](https://node.university/p/node-advanced)
+* [ ] [Top ES6/ES2015 Features](https://node.university/p/es6)
+* [ ] [ES7 and ES8 Features](https://node.university/p/es7-es8)
 
 ---
 
@@ -45,7 +43,7 @@ A list of courses from different platforms
 
 ---
 
-### [Udemy](https://www.udemy.com) `(varies per course)`
+### [Udemy](https://www.udemy.com) `(free and paid)`
 
 * [x] [Modern React with Redux](https://www.udemy.com/react-redux)
 * [x] [React 16 - The Complete Guide (incl. React Router 4 & Redux)](https://www.udemy.com/react-the-complete-guide-incl-redux)
@@ -56,128 +54,128 @@ A list of courses from different platforms
 
 ### [Pluralsight](https://www.pluralsight.com) `($30 / month)`
 
-1. #### [Upgrading Your Technology Career](https://app.pluralsight.com/paths/certificate/upgrading-your-technology-career)
+1.  #### [Upgrading Your Technology Career](https://app.pluralsight.com/paths/certificate/upgrading-your-technology-career)
 
-1. #### [Communications for Technologists](https://app.pluralsight.com/paths/certificate/communications-for-technologists)
+1.  #### [Communications for Technologists](https://app.pluralsight.com/paths/certificate/communications-for-technologists)
 
-1. #### [HTML Path](https://app.pluralsight.com/paths/skills/html5)
+1.  #### [HTML Path](https://app.pluralsight.com/paths/skills/html5)
 
-1. #### [CSS Path](https://app.pluralsight.com/paths/skills/css)
+1.  #### [CSS Path](https://app.pluralsight.com/paths/skills/css)
 
-1. #### [JS Path](https://app.pluralsight.com/paths/skills/javascript)
+1.  #### [JS Path](https://app.pluralsight.com/paths/skills/javascript)
 
-1. #### [React Path](https://app.pluralsight.com/paths/skills/react)
+1.  #### [React Path](https://app.pluralsight.com/paths/skills/react)
 
-1. #### [Node Path](https://app.pluralsight.com/paths/skills/node-js)
+1.  #### [Node Path](https://app.pluralsight.com/paths/skills/node-js)
 
 ---
 
 ### [Egghead.io](https://egghead.io) `($40 / month)`
 
-1. #### [HTML](https://egghead.io/browse/languages/html)
+1.  #### [HTML](https://egghead.io/browse/languages/html)
 
-   * [ ] [Learn HTML5 Graphics and Animation](https://egghead.io/courses/learn-html5-graphics-and-animation)
-   * [ ] [Start Building Accessible Web Applications Today](https://egghead.io/courses/start-building-accessible-web-applications-today)
+    * [ ] [Learn HTML5 Graphics and Animation](https://egghead.io/courses/learn-html5-graphics-and-animation)
+    * [ ] [Start Building Accessible Web Applications Today](https://egghead.io/courses/start-building-accessible-web-applications-today)
 
-   * [ ] [Create an SVG Icon System](https://egghead.io/courses/create-an-svg-icon-system)
-   * [ ] [Create Graphics with HTML Canvas](https://egghead.io/courses/create-graphics-with-html-canvas)
+    * [ ] [Create an SVG Icon System](https://egghead.io/courses/create-an-svg-icon-system)
+    * [ ] [Create Graphics with HTML Canvas](https://egghead.io/courses/create-graphics-with-html-canvas)
 
-1. #### [CSS](https://egghead.io/browse/languages/css)
+1.  #### [CSS](https://egghead.io/browse/languages/css)
 
-   * [ ] [Optimize User Experience for mobile devices and browsers](https://egghead.io/courses/optimize-user-experience-for-mobile-devices-and-browsers)
-   * [ ] [Build User Interfaces by Composing CSS Utility Classes with Tailwind](https://egghead.io/courses/build-user-interfaces-by-composing-css-utility-classes-with-tailwind)
-   * [ ] [Flexbox Fundamentals](https://egghead.io/courses/flexbox-fundamentals)
-   * [ ] [Learn Advanced CSS Layout Techniques](https://egghead.io/courses/learn-advanced-css-layout-techniques)
-   * [ ] [Build Complex Layouts with CSS Grid Layout](https://egghead.io/courses/build-complex-layouts-with-css-grid-layout)
-   * [ ] [Style an Application from Start to Finish](https://egghead.io/courses/style-an-application-from-start-to-finish)
+    * [ ] [Optimize User Experience for mobile devices and browsers](https://egghead.io/courses/optimize-user-experience-for-mobile-devices-and-browsers)
+    * [ ] [Build User Interfaces by Composing CSS Utility Classes with Tailwind](https://egghead.io/courses/build-user-interfaces-by-composing-css-utility-classes-with-tailwind)
+    * [ ] [Flexbox Fundamentals](https://egghead.io/courses/flexbox-fundamentals)
+    * [ ] [Learn Advanced CSS Layout Techniques](https://egghead.io/courses/learn-advanced-css-layout-techniques)
+    * [ ] [Build Complex Layouts with CSS Grid Layout](https://egghead.io/courses/build-complex-layouts-with-css-grid-layout)
+    * [ ] [Style an Application from Start to Finish](https://egghead.io/courses/style-an-application-from-start-to-finish)
 
-1. #### [JavaScript](https://egghead.io/browse/languages/javascript)
+1.  #### [JavaScript](https://egghead.io/browse/languages/javascript)
 
-   * [ ] [Asynchronous Programming: The End of The Loop](https://egghead.io/courses/asynchronous-programming-the-end-of-the-loop)
-   * [ ] [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
-   * [ ] [Publish JavaScript packages on npm](https://egghead.io/courses/publish-javascript-packages-on-npm)
-   * [ ] [State Monad in JavaScript](https://egghead.io/courses/state-monad-in-javascript)
-   * [ ] [Understand JavaScript's this Keyword in Depth](https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth)
-   * [ ] [Quickly Transform Data with Transducers](https://egghead.io/courses/quickly-transform-data-with-transducers)
-   * [ ] [Write simple asynchronous code with JavaScript generators](https://egghead.io/courses/write-simple-asynchronous-code-with-javascript-generators)
-   * [ ] [Get Started Using WebAssembly (wasm)](https://egghead.io/courses/get-started-using-webassembly-wasm)
-   * [x] [Learn ES6 (ECMAScript 2015)](https://egghead.io/courses/learn-es6-ecmascript-2015)
-   * [ ] [How to Use npm Scripts as Your Build Tool](https://egghead.io/courses/how-to-use-npm-scripts-as-your-build-tool)
-   * [ ] [Advanced Logging with the JavaScript Console](https://egghead.io/courses/js-console-for-power-users)
-   * [ ] [Understand JavaScript Arrays](https://egghead.io/courses/understand-javascript-arrays)
-   * [ ] [Introduction to Node: The Fundamentals](https://egghead.io/courses/introduction-to-node-the-fundamentals)
-   * [ ] [Reduce Data with Javascript Array#reduce](https://egghead.io/courses/reduce-data-with-javascript)
-   * [ ] [Regex in Javascript](https://egghead.io/courses/regex-in-javascript)
+    * [ ] [Asynchronous Programming: The End of The Loop](https://egghead.io/courses/asynchronous-programming-the-end-of-the-loop)
+    * [ ] [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
+    * [ ] [Publish JavaScript packages on npm](https://egghead.io/courses/publish-javascript-packages-on-npm)
+    * [ ] [State Monad in JavaScript](https://egghead.io/courses/state-monad-in-javascript)
+    * [ ] [Understand JavaScript's this Keyword in Depth](https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth)
+    * [ ] [Quickly Transform Data with Transducers](https://egghead.io/courses/quickly-transform-data-with-transducers)
+    * [ ] [Write simple asynchronous code with JavaScript generators](https://egghead.io/courses/write-simple-asynchronous-code-with-javascript-generators)
+    * [ ] [Get Started Using WebAssembly (wasm)](https://egghead.io/courses/get-started-using-webassembly-wasm)
+    * [x] [Learn ES6 (ECMAScript 2015)](https://egghead.io/courses/learn-es6-ecmascript-2015)
+    * [ ] [How to Use npm Scripts as Your Build Tool](https://egghead.io/courses/how-to-use-npm-scripts-as-your-build-tool)
+    * [ ] [Advanced Logging with the JavaScript Console](https://egghead.io/courses/js-console-for-power-users)
+    * [ ] [Understand JavaScript Arrays](https://egghead.io/courses/understand-javascript-arrays)
+    * [ ] [Introduction to Node: The Fundamentals](https://egghead.io/courses/introduction-to-node-the-fundamentals)
+    * [ ] [Reduce Data with Javascript Array#reduce](https://egghead.io/courses/reduce-data-with-javascript)
+    * [ ] [Regex in Javascript](https://egghead.io/courses/regex-in-javascript)
 
-1) #### [Git](https://egghead.io/browse/tools/git)
+1)  #### [Git](https://egghead.io/browse/tools/git)
 
-   * [ ] [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
-   * [ ] [Practical Git for Everyday Professional Use](https://egghead.io/courses/practical-git-for-everyday-professional-use)
+    * [ ] [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
+    * [ ] [Practical Git for Everyday Professional Use](https://egghead.io/courses/practical-git-for-everyday-professional-use)
 
-1) #### [Chrome DevTools](https://egghead.io/browse/tools/chrome-devtools)
+1)  #### [Chrome DevTools](https://egghead.io/browse/tools/chrome-devtools)
 
-   * [ ] [Advanced Logging with the JavaScript Console](https://egghead.io/courses/js-console-for-power-users)
-   * [ ] [Debug the DOM in Chrome with the Devtools Elements Panel](https://egghead.io/courses/using-chrome-developer-tools-elements)
-   * [ ] [Debug JavaScript in Chrome with DevTool Sources](https://egghead.io/courses/chrome-devtools-sources-panel)
-   * [ ] [Debug HTTP with Chrome DevTools Network Panel](https://egghead.io/courses/debug-http-with-chrome-devtools-network-panel)
+    * [ ] [Advanced Logging with the JavaScript Console](https://egghead.io/courses/js-console-for-power-users)
+    * [ ] [Debug the DOM in Chrome with the Devtools Elements Panel](https://egghead.io/courses/using-chrome-developer-tools-elements)
+    * [ ] [Debug JavaScript in Chrome with DevTool Sources](https://egghead.io/courses/chrome-devtools-sources-panel)
+    * [ ] [Debug HTTP with Chrome DevTools Network Panel](https://egghead.io/courses/debug-http-with-chrome-devtools-network-panel)
 
-1. #### [React](https://egghead.io/browse/frameworks/react)
+1.  #### [React](https://egghead.io/browse/frameworks/react)
 
-   * [x] [Build a Server-rendered ReactJS Application with Next.js](https://egghead.io/courses/build-a-server-rendered-reactjs-application-with-next-js)
-   * [x] [Start Learning React](https://egghead.io/courses/start-learning-react)
-   * [x] [The Beginner's Guide to ReactJS](https://egghead.io/courses/the-beginner-s-guide-to-reactjs)
-   * [ ] [React Testing Cookbook](https://egghead.io/courses/react-testing-cookbook)
-   * [ ] [Advanced React Component Patterns](https://egghead.io/courses/advanced-react-component-patterns)
-   * [ ] [Leverage New Features of React 16](https://egghead.io/courses/leverage-new-features-of-react-16)
-   * [ ] [Add routing to React apps using React Router v4](https://egghead.io/courses/add-routing-to-react-apps-using-react-router-v4)
-   * [ ] [Add Internationalization (i18n) to a React app using React Intl](https://egghead.io/courses/add-internationalization-i18n-to-a-react-app-using-react-intl)
-   * [ ] [Higher Order Components with Functional Patterns Using Recompose](https://egghead.io/courses/higher-order-components-with-functional-patterns-using-recompose)
-   * [ ] [Build Your First Production Quality React App](https://egghead.io/courses/build-your-first-production-quality-react-app)
-   * [ ] [Build a Server-rendered ReactJS Application with Next.js](https://egghead.io/courses/build-a-server-rendered-reactjs-application-with-next-js)
+    * [x] [Build a Server-rendered ReactJS Application with Next.js](https://egghead.io/courses/build-a-server-rendered-reactjs-application-with-next-js)
+    * [x] [Start Learning React](https://egghead.io/courses/start-learning-react)
+    * [x] [The Beginner's Guide to ReactJS](https://egghead.io/courses/the-beginner-s-guide-to-reactjs)
+    * [ ] [React Testing Cookbook](https://egghead.io/courses/react-testing-cookbook)
+    * [ ] [Advanced React Component Patterns](https://egghead.io/courses/advanced-react-component-patterns)
+    * [ ] [Leverage New Features of React 16](https://egghead.io/courses/leverage-new-features-of-react-16)
+    * [ ] [Add routing to React apps using React Router v4](https://egghead.io/courses/add-routing-to-react-apps-using-react-router-v4)
+    * [ ] [Add Internationalization (i18n) to a React app using React Intl](https://egghead.io/courses/add-internationalization-i18n-to-a-react-app-using-react-intl)
+    * [ ] [Higher Order Components with Functional Patterns Using Recompose](https://egghead.io/courses/higher-order-components-with-functional-patterns-using-recompose)
+    * [ ] [Build Your First Production Quality React App](https://egghead.io/courses/build-your-first-production-quality-react-app)
+    * [ ] [Build a Server-rendered ReactJS Application with Next.js](https://egghead.io/courses/build-a-server-rendered-reactjs-application-with-next-js)
 
-1) #### [Redux](https://egghead.io/browse/libraries/redux)
+1)  #### [Redux](https://egghead.io/browse/libraries/redux)
 
-   * [x] [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
-   * [x] [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
-   * [x] [Build A React App With Redux](https://egghead.io/courses/build-a-react-app-with-redux)
-   * [ ] [Async React with Redux Saga](https://egghead.io/courses/async-react-with-redux-saga)
-   * [ ] [Reduce Redux Boilerplate with Redux-Actions](https://egghead.io/courses/reduce-redux-boilerplate-with-redux-actions)
+    * [x] [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
+    * [x] [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+    * [x] [Build A React App With Redux](https://egghead.io/courses/build-a-react-app-with-redux)
+    * [ ] [Async React with Redux Saga](https://egghead.io/courses/async-react-with-redux-saga)
+    * [ ] [Reduce Redux Boilerplate with Redux-Actions](https://egghead.io/courses/reduce-redux-boilerplate-with-redux-actions)
 
-1) #### [Webpack](https://egghead.io/browse/tools/webpack)
+1)  #### [Webpack](https://egghead.io/browse/tools/webpack)
 
-   * [ ] [Real World Webpack](https://egghead.io/courses/real-world-webpack)
-   * [ ] [Using Webpack for Production JavaScript Applications](https://egghead.io/courses/using-webpack-for-production-javascript-applications)
-   * [ ] [Make Webpack Easy with Poi](https://egghead.io/courses/make-webpack-easy-with-poi)
+    * [ ] [Real World Webpack](https://egghead.io/courses/real-world-webpack)
+    * [ ] [Using Webpack for Production JavaScript Applications](https://egghead.io/courses/using-webpack-for-production-javascript-applications)
+    * [ ] [Make Webpack Easy with Poi](https://egghead.io/courses/make-webpack-easy-with-poi)
 
-1) #### [PostgreSQL](https://egghead.io/browse/libraries/postgres)
+1)  #### [PostgreSQL](https://egghead.io/browse/libraries/postgres)
 
-   * [ ] [Get Started With PostgreSQL](https://egghead.io/courses/get-started-with-postgresql)
-   * [ ] [Using Postgres Window Functions](https://egghead.io/courses/using-postgres-window-functions)
-   * [ ] [Understand Joins and Unions in Postgres](https://egghead.io/courses/understand-joins-and-unions-in-postgres)
+    * [ ] [Get Started With PostgreSQL](https://egghead.io/courses/get-started-with-postgresql)
+    * [ ] [Using Postgres Window Functions](https://egghead.io/courses/using-postgres-window-functions)
+    * [ ] [Understand Joins and Unions in Postgres](https://egghead.io/courses/understand-joins-and-unions-in-postgres)
 
-1. #### [Jest](https://egghead.io/browse/libraries/jest)
+1.  #### [Jest](https://egghead.io/browse/libraries/jest)
 
-   * [ ] [End to End Testing with Google's Puppeteer and Jest](https://egghead.io/courses/end-to-end-testing-with-google-s-puppeteer-and-jest)
+    * [ ] [End to End Testing with Google's Puppeteer and Jest](https://egghead.io/courses/end-to-end-testing-with-google-s-puppeteer-and-jest)
 
-1. #### [GraphQL](https://egghead.io/browse/tools/graphql)
+1.  #### [GraphQL](https://egghead.io/browse/tools/graphql)
 
-   * [ ] [Build a GraphQL Server](https://egghead.io/courses/build-a-graphql-server)
+    * [ ] [Build a GraphQL Server](https://egghead.io/courses/build-a-graphql-server)
 
-1. #### [Express](https://egghead.io/browse/frameworks/express)
+1.  #### [Express](https://egghead.io/browse/frameworks/express)
 
-   * [ ] [Getting Started with Express.js](https://egghead.io/courses/getting-started-with-express-js)
+    * [ ] [Getting Started with Express.js](https://egghead.io/courses/getting-started-with-express-js)
 
-1. #### [Now](https://egghead.io/browse/tools/zeit-now)
+1.  #### [Now](https://egghead.io/browse/tools/zeit-now)
 
-   * [ ] [Deploy Web Apps with Zeit Now](https://egghead.io/courses/deploy-web-apps-with-zeit-now)
+    * [ ] [Deploy Web Apps with Zeit Now](https://egghead.io/courses/deploy-web-apps-with-zeit-now)
 
-1. #### [Immutable](https://egghead.io/courses/learn-how-to-use-immutable-js)
+1.  #### [Immutable](https://egghead.io/courses/learn-how-to-use-immutable-js)
 
-   * [ ] [Deploy Web Apps with Zeit Now](https://egghead.io/courses/deploy-web-apps-with-zeit-now)
+    * [ ] [Deploy Web Apps with Zeit Now](https://egghead.io/courses/deploy-web-apps-with-zeit-now)
 
-1. #### [HTTP](https://egghead.io/browse/tools/http)
+1.  #### [HTTP](https://egghead.io/browse/tools/http)
 
-   * [ ] [Understand the Basics of HTTP](https://egghead.io/courses/understand-the-basics-of-http)
+    * [ ] [Understand the Basics of HTTP](https://egghead.io/courses/understand-the-basics-of-http)
 
 ---
 
@@ -320,52 +318,52 @@ A list of courses from different platforms
 
 ### [CodeSchool](https://www.codeschool.com) `(30$ / month)`
 
-1. #### [HTML/CSS Path](https://www.codeschool.com/learn/html-css)
+1.  #### [HTML/CSS Path](https://www.codeschool.com/learn/html-css)
 
-   * [x] [Front-end Foundations](https://www.codeschool.com/courses/front-end-foundations)
-   * [x] [Front-end Formations](https://www.codeschool.com/courses/front-end-formations)
-   * [x] [CSS Cross-Country](https://www.codeschool.com/courses/css-cross-country)
-   * [x] [Journey Into Mobile](https://www.codeschool.com/courses/journey-into-mobile)
-   * [ ] [Cracking the Case With Flexbox](https://www.codeschool.com/courses/cracking-the-case-with-flexbox)
-   * [ ] [Unmasking HTML Emails](https://www.codeschool.com/courses/unmasking-html-emails)
-   * [ ] [Adventures in Web Animations](https://www.codeschool.com/courses/adventures-in-web-animations)
-   * [ ] [You, Me & SVG](https://www.codeschool.com/courses/you-me-svg)
-   * [ ] [Assembling Sass](https://www.codeschool.com/courses/assembling-sass)
-   * [ ] [Blasting Off with Bootstrap](https://www.codeschool.com/courses/blasting-off-with-bootstrap)
-   * [ ] [Fundamentals of Design](https://www.codeschool.com/courses/fundamentals-of-design)
-   * [ ] [The Elements of Web Design](https://www.codeschool.com/courses/the-elements-of-web-design)
+    * [x] [Front-end Foundations](https://www.codeschool.com/courses/front-end-foundations)
+    * [x] [Front-end Formations](https://www.codeschool.com/courses/front-end-formations)
+    * [x] [CSS Cross-Country](https://www.codeschool.com/courses/css-cross-country)
+    * [x] [Journey Into Mobile](https://www.codeschool.com/courses/journey-into-mobile)
+    * [ ] [Cracking the Case With Flexbox](https://www.codeschool.com/courses/cracking-the-case-with-flexbox)
+    * [ ] [Unmasking HTML Emails](https://www.codeschool.com/courses/unmasking-html-emails)
+    * [ ] [Adventures in Web Animations](https://www.codeschool.com/courses/adventures-in-web-animations)
+    * [ ] [You, Me & SVG](https://www.codeschool.com/courses/you-me-svg)
+    * [ ] [Assembling Sass](https://www.codeschool.com/courses/assembling-sass)
+    * [ ] [Blasting Off with Bootstrap](https://www.codeschool.com/courses/blasting-off-with-bootstrap)
+    * [ ] [Fundamentals of Design](https://www.codeschool.com/courses/fundamentals-of-design)
+    * [ ] [The Elements of Web Design](https://www.codeschool.com/courses/the-elements-of-web-design)
 
-2. #### [JavaScript Path](https://www.codeschool.com/learn/javascript)
+2.  #### [JavaScript Path](https://www.codeschool.com/learn/javascript)
 
-   * [ ] [JavaScript Road Trip Part 1](https://www.codeschool.com/courses/javascript-road-trip-part-1)
-   * [ ] [JavaScript Road Trip Part 2](https://www.codeschool.com/courses/javascript-road-trip-part-2)
-   * [ ] [JavaScript Road Trip Part 3](https://www.codeschool.com/courses/javascript-road-trip-part-3)
-   * [ ] [ES2015: The Shape of JavaScript to Come](https://www.codeschool.com/courses/es2015-the-shape-of-javascript-to-come)
-   * [ ] [JavaScript Best Practices](https://www.codeschool.com/courses/javascript-best-practices)
-   * [ ] [Try jQuery](https://www.codeschool.com/courses/try-jquery)
-   * [ ] [jQuery: The Return Flight](https://www.codeschool.com/courses/jquery-the-return-flight)
-   * [ ] [Powering Up With React](https://www.codeschool.com/courses/powering-up-with-react)
-   * [ ] [Real-time Web with Node.js](https://www.codeschool.com/courses/real-time-web-with-node-js)
-   * [ ] [Building Blocks of Express.js](https://www.codeschool.com/courses/building-blocks-of-express-js)
+    * [ ] [JavaScript Road Trip Part 1](https://www.codeschool.com/courses/javascript-road-trip-part-1)
+    * [ ] [JavaScript Road Trip Part 2](https://www.codeschool.com/courses/javascript-road-trip-part-2)
+    * [ ] [JavaScript Road Trip Part 3](https://www.codeschool.com/courses/javascript-road-trip-part-3)
+    * [ ] [ES2015: The Shape of JavaScript to Come](https://www.codeschool.com/courses/es2015-the-shape-of-javascript-to-come)
+    * [ ] [JavaScript Best Practices](https://www.codeschool.com/courses/javascript-best-practices)
+    * [ ] [Try jQuery](https://www.codeschool.com/courses/try-jquery)
+    * [ ] [jQuery: The Return Flight](https://www.codeschool.com/courses/jquery-the-return-flight)
+    * [ ] [Powering Up With React](https://www.codeschool.com/courses/powering-up-with-react)
+    * [ ] [Real-time Web with Node.js](https://www.codeschool.com/courses/real-time-web-with-node-js)
+    * [ ] [Building Blocks of Express.js](https://www.codeschool.com/courses/building-blocks-of-express-js)
 
-3. #### [Git Path](https://www.codeschool.com/learn/git)
+3.  #### [Git Path](https://www.codeschool.com/learn/git)
 
-   * [ ] [Try Git](https://www.codeschool.com/courses/try-git)
-   * [ ] [Git Real](https://www.codeschool.com/courses/git-real)
-   * [ ] [Git Real 2](https://www.codeschool.com/courses/git-real-2)
-   * [ ] [Mastering GitHub](https://www.codeschool.com/courses/mastering-github)
+    * [ ] [Try Git](https://www.codeschool.com/courses/try-git)
+    * [ ] [Git Real](https://www.codeschool.com/courses/git-real)
+    * [ ] [Git Real 2](https://www.codeschool.com/courses/git-real-2)
+    * [ ] [Mastering GitHub](https://www.codeschool.com/courses/mastering-github)
 
-4. #### [Database Path](https://www.codeschool.com/learn/database)
+4.  #### [Database Path](https://www.codeschool.com/learn/database)
 
-   * [ ] [Try SQL](https://www.codeschool.com/courses/try-sql)
-   * [ ] [The Sequel to SQL](https://www.codeschool.com/courses/the-sequel-to-sql)
-   * [ ] [The Magical Marvels of MongoDB](https://www.codeschool.com/courses/the-magical-marvels-of-mongodb)
+    * [ ] [Try SQL](https://www.codeschool.com/courses/try-sql)
+    * [ ] [The Sequel to SQL](https://www.codeschool.com/courses/the-sequel-to-sql)
+    * [ ] [The Magical Marvels of MongoDB](https://www.codeschool.com/courses/the-magical-marvels-of-mongodb)
 
-5. #### [Electives Path](https://www.codeschool.com/learn/electives)
+5.  #### [Electives Path](https://www.codeschool.com/learn/electives)
 
-   * [ ] [Breaking the Ice With Regular Expressions](https://www.codeschool.com/courses/breaking-the-ice-with-regular-expressions)
-   * [ ] [Discover DevTools](https://www.codeschool.com/courses/discover-devtools)
-   * [ ] [Try Docker](https://www.codeschool.com/courses/try-docker)
+    * [ ] [Breaking the Ice With Regular Expressions](https://www.codeschool.com/courses/breaking-the-ice-with-regular-expressions)
+    * [ ] [Discover DevTools](https://www.codeschool.com/courses/discover-devtools)
+    * [ ] [Try Docker](https://www.codeschool.com/courses/try-docker)
 
 ---
 
@@ -380,3 +378,10 @@ A list of courses from different platforms
 
 * [ ] [Front End Web Development Techdegree](https://teamtreehouse.com/techdegree/front-end-web-development)
 * [ ] [Full Stack JavaScript Techdegree](https://teamtreehouse.com/techdegree/full-stack-javascript)
+
+### My curated lists
+
+* [ES2015](https://github.com/lndgalante/my-es6-list)
+* [Flexbox](https://github.com/lndgalante/my-flexbox-list) | [CSS Grids](https://github.com/lndgalante/my-css-grids-list)
+* [React](https://github.com/lndgalante/my-react-list) | [React Native](https://github.com/lndgalante/my-react-native-list) | [Redux](https://github.com/lndgalante/my-redux-list)
+* [Node / Express / MongoDB](https://github.com/lndgalante/my-node-list) | [GraphQL](https://github.com/lndgalante/my-graphql-list)
