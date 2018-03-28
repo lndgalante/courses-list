@@ -274,6 +274,14 @@
 
 ---
 
+### [Jeremy Thomas](https://jgthms.com/) `(free)`
+
+* [ ] [JavaScript in 14 minutes](https://jgthms.com/javascript-in-14-minutes)
+* [ ] [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes)
+* [ ] [MarkSheet](https://marksheet.io)
+
+---
+
 ### [Udacity](https://www.udacity.com) `(~$200 / nanodegree)`
 
 * [ ] [Design Sprint Nanodegree](https://www.udacity.com/course/design-sprint-foundations--nd201#)
