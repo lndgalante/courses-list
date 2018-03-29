@@ -1,6 +1,15 @@
 # Courses
 
-> A list of courses from different platforms/mentors
+> A list of courses from different platforms/developers
+
+## Personal curated lists
+
+* [ES2015](https://github.com/lndgalante/my-es6-list)
+* [Flexbox](https://github.com/lndgalante/my-flexbox-list) | [CSS Grids](https://github.com/lndgalante/my-css-grids-list)
+* [React](https://github.com/lndgalante/my-react-list) | [React Native](https://github.com/lndgalante/my-react-native-list) | [Redux](https://github.com/lndgalante/my-redux-list)
+* [Node / Express / MongoDB](https://github.com/lndgalante/my-node-list) | [GraphQL](https://github.com/lndgalante/my-graphql-list)
+
+## Platforms/developers
 
 ### [freeCodeCamp](https://beta.freecodecamp.org/en) `(free)`
 
@@ -386,10 +395,3 @@
 
 * [ ] [Front End Web Development Techdegree](https://teamtreehouse.com/techdegree/front-end-web-development)
 * [ ] [Full Stack JavaScript Techdegree](https://teamtreehouse.com/techdegree/full-stack-javascript)
-
-### My curated lists
-
-* [ES2015](https://github.com/lndgalante/my-es6-list)
-* [Flexbox](https://github.com/lndgalante/my-flexbox-list) | [CSS Grids](https://github.com/lndgalante/my-css-grids-list)
-* [React](https://github.com/lndgalante/my-react-list) | [React Native](https://github.com/lndgalante/my-react-native-list) | [Redux](https://github.com/lndgalante/my-redux-list)
-* [Node / Express / MongoDB](https://github.com/lndgalante/my-node-list) | [GraphQL](https://github.com/lndgalante/my-graphql-list)
