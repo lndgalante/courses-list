@@ -19,6 +19,25 @@
 
 ---
 
+### [Rithm School](https://www.rithmschool.com/courses) `(free)`
+
+* [ ] [Terminal and UNIX](https://www.rithmschool.com/courses/terminal)
+* [ ] [Git and GitHub](https://www.rithmschool.com/courses/git)
+* [ ] [HTML and CSS Basics](https://www.rithmschool.com/courses/html-css-fundamentals)
+* [ ] [Intermediate CSS](https://www.rithmschool.com/courses/intermediate-css-bootstrap)
+* [ ] [Introduction to JavaScript](https://www.rithmschool.com/courses/javascript)
+* [ ] [Intermediate JavaScript I](https://www.rithmschool.com/courses/intermediate-javascript)
+* [ ] [Intermediate JavaScript II](https://www.rithmschool.com/courses/intermediate-javascript-part-2)
+* [ ] [Advanced JavaScript I](https://www.rithmschool.com/courses/advanced-javascript)
+* [ ] [Advanced JavaScript II](https://www.rithmschool.com/courses/advanced-javascript-part-2)
+* [ ] [Data Structures + Algorithms](https://www.rithmschool.com/courses/javascript-computer-science-fundamentals)
+* [ ] [Node.js and Express.js Fundamentals](https://www.rithmschool.com/courses/node-express-fundamentals)
+* [ ] [Intermediate Node.js and Express.js](https://www.rithmschool.com/courses/intermediate-node-express)
+* [ ] [React.js Fundamentals](https://www.rithmschool.com/courses/react-fundamentals)
+* [ ] [Intermediate React.js](https://www.rithmschool.com/courses/intermediate-react)
+
+---
+
 ### [Node University](https://node.university) `(free and paid)`
 
 * [ ] [Node and MongoDB Foundation](https://node.university/p/node-npm-and-mongodb-foundation)
@@ -58,6 +77,7 @@
 * [x] [React 16 - The Complete Guide (incl. React Router 4 & Redux)](https://www.udemy.com/react-the-complete-guide-incl-redux)
 * [ ] [The Complete React Web Developer Course (with Redux)](https://www.udemy.com/react-2nd-edition)
 * [ ] [GraphQL with React: The Complete Developers Guide](https://www.udemy.com/graphql-with-react-course)
+* [ ] [The Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/?couponCode=LAUNCH-CODE)
 
 ---
 
