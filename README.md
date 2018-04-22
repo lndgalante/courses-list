@@ -77,7 +77,8 @@
 * [x] [React 16 - The Complete Guide (incl. React Router 4 & Redux)](https://www.udemy.com/react-the-complete-guide-incl-redux)
 * [ ] [The Complete React Web Developer Course (with Redux)](https://www.udemy.com/react-2nd-edition)
 * [ ] [GraphQL with React: The Complete Developers Guide](https://www.udemy.com/graphql-with-react-course)
-* [ ] [The Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/?couponCode=LAUNCH-CODE)
+* [ ] [The Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp)
+* [ ] [MERN Stack Front To Back: Full Stack React, Redux & Node.js](https://www.udemy.com/mern-stack-front-to-back)
 
 ---
 
