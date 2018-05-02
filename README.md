@@ -79,6 +79,10 @@
 
 ---
 
+### [Caster.io](https://caster.io) `(free and paid)`
+
+---
+
 ### [Udemy](https://www.udemy.com) `(free and paid)`
 
 * [x] [Modern React with Redux](https://www.udemy.com/react-redux)
