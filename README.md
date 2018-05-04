@@ -1,6 +1,6 @@
 # Courses
 
-> A list of courses from different platforms/developers
+> 👨‍🎓 A list of JavaScript courses (free and paid)
 
 ## Personal curated lists
 
