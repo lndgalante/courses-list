@@ -19,6 +19,17 @@
 
 ---
 
+### [Learn Enough](https://www.learnenough.com) `(free)`
+
+* [ ] [Learn Enough Command Line to Be Dangerous](https://www.rithmschool.com/courses/terminal)
+* [ ] [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial)
+* [ ] [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial)
+* [ ] [Learn Enough HTML to Be Dangerous](https://www.learnenough.com/html-tutorial)
+* [ ] [Learn Enough CSS & Layout to Be Dangerous](https://www.learnenough.com/css-and-layout-tutorial)
+* [ ] [Learn Enough JavaScript to Be Dangerous](https://www.learnenough.com/javascript-tutorial)
+
+---
+
 ### [Rithm School](https://www.rithmschool.com/courses) `(free)`
 
 * [ ] [Terminal and UNIX](https://www.rithmschool.com/courses/terminal)
