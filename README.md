@@ -83,6 +83,10 @@
 
 ---
 
+### [The Frontier](https://thefrontier.bignerdranch.com/screencasts?category=web) `(free and paid)`
+
+---
+
 ### [Udemy](https://www.udemy.com) `(free and paid)`
 
 * [x] [Modern React with Redux](https://www.udemy.com/react-redux)
@@ -341,6 +345,8 @@
 
 * [ ] [Modern JavaScript (ES6+)](https://tylermcginnis.com/courses/modern-javascript)
 * [ ] [React Fundamentals](https://tylermcginnis.com/courses/react-fundamentals)
+* [ ] [React Fundamentals - Udacity](https://tylermcginnis.com/courses/react-fundamentals-udacity)
+* [ ] [React Native Fundamentals - Udacity](https://tylermcginnis.com/courses/react-native-udacity)
 * [ ] [React Router V4](https://tylermcginnis.com/courses/react-router)
 * [ ] [Redux](https://tylermcginnis.com/courses/redux)
 
