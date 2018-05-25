@@ -1,6 +1,6 @@
 # Courses
 
-> A list of courses from different platforms/developers
+> 👨‍🎓 A list of JavaScript courses (free and paid)
 
 ## Personal curated lists
 
@@ -16,6 +16,17 @@
 ---
 
 ### [Microsoft Virtual Academy](https://mva.microsoft.com) `(free)`
+
+---
+
+### [Learn Enough](https://www.learnenough.com) `(free)`
+
+* [ ] [Learn Enough Command Line to Be Dangerous](https://www.rithmschool.com/courses/terminal)
+* [ ] [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial)
+* [ ] [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial)
+* [ ] [Learn Enough HTML to Be Dangerous](https://www.learnenough.com/html-tutorial)
+* [ ] [Learn Enough CSS & Layout to Be Dangerous](https://www.learnenough.com/css-and-layout-tutorial)
+* [ ] [Learn Enough JavaScript to Be Dangerous](https://www.learnenough.com/javascript-tutorial)
 
 ---
 
