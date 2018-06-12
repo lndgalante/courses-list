@@ -23,6 +23,10 @@
 
 ---
 
+### [X-Team Programming Resources](https://x-team.com/programming-resources) `(free)`
+
+---
+
 ### [Learn Enough](https://www.learnenough.com) `(free)`
 
 - [ ] [Learn Enough Command Line to Be Dangerous](https://www.rithmschool.com/courses/terminal)
