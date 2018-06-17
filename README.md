@@ -27,6 +27,12 @@
 
 ---
 
+### [Remy Sharp](https://remysharp.com) `(free)`
+
+- [ ] [Universal JavaScript with Next.js](https://next.training.leftlogic.com)
+
+---
+
 ### [Learn Enough](https://www.learnenough.com) `(free)`
 
 - [ ] [Learn Enough Command Line to Be Dangerous](https://www.rithmschool.com/courses/terminal)
