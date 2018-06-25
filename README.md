@@ -27,6 +27,10 @@
 
 ---
 
+### [EnvatoTuts+](https://tutsplus.com) `(free)`
+
+---
+
 ### [Remy Sharp](https://remysharp.com) `(free)`
 
 - [ ] [Universal JavaScript with Next.js](https://next.training.leftlogic.com)
