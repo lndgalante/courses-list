@@ -35,6 +35,10 @@
 
 ---
 
+### [LevelUpTutorials](https://www.leveluptutorials.com) `(free & paid)`
+
+---
+
 ### [Remy Sharp](https://remysharp.com) `(free)`
 
 - [ ] [Universal JavaScript with Next.js](https://next.training.leftlogic.com)
