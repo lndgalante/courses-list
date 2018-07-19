@@ -45,6 +45,12 @@
 
 ---
 
+### [Swizec](https://swizec.com) `(paid)`
+
+- [ ] [Learn While You Poop](https://learnwhileyoupoop.com)
+
+---
+
 ### [Learn Enough](https://www.learnenough.com) `(free)`
 
 - [ ] [Learn Enough Command Line to Be Dangerous](https://www.rithmschool.com/courses/terminal)
