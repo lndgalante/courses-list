@@ -11,6 +11,12 @@
 
 ## Platforms/developers
 
+---
+
+### [Design+Code - React for Designers](https://designcode.io/react) `(50usd)`
+
+---
+
 ### [freeCodeCamp](https://beta.freecodecamp.org/en) `(free)`
 
 ---
