@@ -17,7 +17,11 @@
 
 ---
 
-### [freeCodeCamp](https://beta.freecodecamp.org/en) `(free)`
+### [Design+Code - React for Designers](https://designcode.io/react) `(50usd)`
+
+---
+
+### [Learn to Code HTML & CSS - Shay Howe](https://learn.shayhowe.com) `(free)`
 
 ---
 
