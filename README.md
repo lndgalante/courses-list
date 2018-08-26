@@ -51,6 +51,10 @@
 
 ---
 
+### [Codemy](https://www.codemy.net) `(free & paid)`
+
+---
+
 ### [Swizec](https://swizec.com) `(paid)`
 
 - [ ] [Learn While You Poop](https://learnwhileyoupoop.com)
