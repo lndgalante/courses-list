@@ -37,6 +37,14 @@
 
 ---
 
+### [The Odin Project](https://www.theodinproject.com/courses?ref=homenav) `(free)`
+
+---
+
+### [freeCodeCamp]https://www.freecodecamp.org) `(free)`
+
+---
+
 ### [SuperHi](https://www.superhi.com) `(paid)`
 
 ---
