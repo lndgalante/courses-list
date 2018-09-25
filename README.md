@@ -29,6 +29,10 @@
 
 ---
 
+### [Microsoft Learn](https://docs.microsoft.com/en-us/learn) `(free)`
+
+---
+
 ### [DigitalOcean Tutorials](https://www.digitalocean.com/community/tutorials?q=javascript) `(free)`
 
 ---
