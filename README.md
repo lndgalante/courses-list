@@ -13,6 +13,10 @@
 
 ---
 
+### [Upcase](https://thoughtbot.com/upcase) `(free)`
+
+---
+
 ### [Frontend Armory](https://frontarm.com/browse) `(free and paid)`
 
 ---
