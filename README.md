@@ -557,3 +557,7 @@
 ---
 
 ### [Scrimba](https://scrimba.com) `(free)`
+
+---
+
+### [DataCamp](https://www.datacamp.com) `(free & paid)`
