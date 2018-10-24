@@ -560,4 +560,8 @@
 
 ---
 
+### [LighthouseLabs](http://lighthouse-labs.thinkific.com/collections) `(free)`
+
+---
+
 ### [DataCamp](https://www.datacamp.com) `(free & paid)`
