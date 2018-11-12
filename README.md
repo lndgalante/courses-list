@@ -13,6 +13,10 @@
 
 ---
 
+### [Ultimate Courses](https://ultimatecourses.com) `(paid)`
+
+---
+
 ### [Upcase](https://thoughtbot.com/upcase) `(free)`
 
 ---
