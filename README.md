@@ -37,6 +37,10 @@
 
 ---
 
+### [Coursera](https://www.coursera.org) `(free and paid)`
+
+---
+
 ### [Microsoft Learn](https://docs.microsoft.com/en-us/learn) `(free)`
 
 ---
