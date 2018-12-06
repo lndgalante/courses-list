@@ -13,6 +13,10 @@
 
 ---
 
+### [Educative](https://www.educative.io) `(free & paid)`
+
+---
+
 ### [Ultimate Courses](https://ultimatecourses.com) `(paid)`
 
 ---
@@ -21,7 +25,7 @@
 
 ---
 
-### [Frontend Armory](https://frontarm.com/browse) `(free and paid)`
+### [Frontend Armory](https://frontarm.com/browse) `(free & paid)`
 
 ---
 
