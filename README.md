@@ -11,6 +11,8 @@
 
 ## Platforms/developers
 
+### [Valentino Gagliardi](https://www.valentinog.com) `(paid)`
+
 ---
 
 ### [Educative](https://www.educative.io) `(free & paid)`
@@ -65,7 +67,7 @@
 
 ---
 
-### [freeCodeCamp]https://www.freecodecamp.org) `(free)`
+### [freeCodeCamp](https://www.freecodecamp.org) `(free)`
 
 ---
 
