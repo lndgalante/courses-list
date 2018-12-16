@@ -11,6 +11,10 @@
 
 ## Platforms/developers
 
+### [Watch and Code](https://watchandcode.com) `(free & paid)`
+
+---
+
 ### [Valentino Gagliardi](https://www.valentinog.com) `(paid)`
 
 ---
