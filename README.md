@@ -19,6 +19,10 @@
 
 ---
 
+### [Vanilla JS Academy](https://vanillajsacademy.com) `(paid)`
+
+---
+
 ### [Educative](https://www.educative.io) `(free & paid)`
 
 ---
