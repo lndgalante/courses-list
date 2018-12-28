@@ -11,6 +11,10 @@
 
 ## Platforms/developers
 
+### [Learn JavaScript Today](https://learnjavascript.today) `(free & paid)`
+
+---
+
 ### [Watch and Code](https://watchandcode.com) `(free & paid)`
 
 ---
