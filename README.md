@@ -11,7 +11,7 @@
 
 ## Platforms/developers
 
-### [Learn JavaScript Today](https://learnjavascript.today) `(free & paid)`
+### [Learn JavaScript Today](https://learnjavascript.today) `(paid)`
 
 ---
 
