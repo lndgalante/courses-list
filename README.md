@@ -11,6 +11,12 @@
 
 ## Platforms/developers
 
+---
+
+### [Learn JavaScript Online](https://learnjavascript.online) `(free)`
+
+---
+
 ### [Learn JavaScript Today](https://learnjavascript.today) `(paid)`
 
 ---
