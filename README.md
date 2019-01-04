@@ -13,6 +13,10 @@
 
 ---
 
+### [HackerNews recommended courses](https://hn.academy) `(free & paid)`
+
+---
+
 ### [Learn JavaScript Online](https://learnjavascript.online) `(free)`
 
 ---
