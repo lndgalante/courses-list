@@ -4,6 +4,10 @@
 
 ---
 
+### [Up & Running Tutorials](https://www.upandrunningtutorials.com) `(free)`
+
+---
+
 ### [GitHub Learning Lab](https://lab.github.com/courses) `(free)`
 
 ---
