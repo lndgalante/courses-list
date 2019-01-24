@@ -52,15 +52,11 @@
 
 ---
 
-### [Design+Code - React for Designers](https://designcode.io/react) `(50usd)`
+### [Design+Code - React for Designers](https://designcode.io/react) `(50usd)
 
 ---
 
 ### [Learn to Code HTML & CSS - Shay Howe](https://learn.shayhowe.com) `(free)`
-
----
-
-### [Microsoft Virtual Academy](https://mva.microsoft.com) `(free)`
 
 ---
 
