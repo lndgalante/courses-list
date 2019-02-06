@@ -4,6 +4,10 @@
 
 ---
 
+### [Onboarding for Developers - Tyler Mcginnis](https://tylermcginnis.com/business/rapid-rampup) `(paid)`
+
+---
+
 ### [The Road to React Tutorials - Robin Wieruch](https://roadtoreact.com) `(free & paid)`
 
 ---
