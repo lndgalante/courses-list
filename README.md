@@ -4,6 +4,10 @@
 
 ---
 
+### [Testing React with Enzyme and Jest - JavaScript Playground](https://javascriptplayground.com/testing-react-enzyme-jest/) `(paid)`
+
+---
+
 ### [Onboarding for Developers - Tyler Mcginnis](https://tylermcginnis.com/business/rapid-rampup) `(paid)`
 
 ---
