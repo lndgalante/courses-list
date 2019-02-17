@@ -4,6 +4,10 @@
 
 ---
 
+### [<ReactAcademy />](https://www.reactacademy.io) `(paid)`
+
+---
+
 ### [Testing React with Enzyme and Jest - JavaScript Playground](https://javascriptplayground.com/testing-react-enzyme-jest/) `(paid)`
 
 ---
