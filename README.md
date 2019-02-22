@@ -4,6 +4,10 @@
 
 ---
 
+### [Learn State Machines - Jon Bellah](https://learnstatemachines.com) `(paid)`
+
+---
+
 ### [<ReactAcademy />](https://www.reactacademy.io) `(paid)`
 
 ---
