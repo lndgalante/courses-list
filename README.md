@@ -8,7 +8,7 @@
 
 ---
 
-### [<ReactAcademy />](https://www.reactacademy.io) `(paid)`
+### [< ReactAcademy />](https://www.reactacademy.io) `(paid)`
 
 ---
 
