@@ -4,6 +4,10 @@
 
 ---
 
+### [BigMachine](https://bigmachine.io/products/) `(paid)`
+
+---
+
 ### [Interactive Browser Based Labs, Courses & Playgrounds - KataCoda](https://www.katacoda.com/) `(free)`
 
 ---
