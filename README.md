@@ -4,6 +4,10 @@
 
 ---
 
+### [JavaScript Playground](https://javascriptplayground.com/react-in-five) `(paid)`
+
+---
+
 ### [BigMachine](https://bigmachine.io/products/) `(paid)`
 
 ---
