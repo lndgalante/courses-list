@@ -4,6 +4,10 @@
 
 ---
 
+### [Mastery with SQL](https://www.masterywithsql.com) `(paid)`
+
+---
+
 ### [JavaScript Playground](https://javascriptplayground.com/react-in-five) `(paid)`
 
 ---
