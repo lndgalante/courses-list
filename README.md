@@ -2,6 +2,11 @@
 
 > 👨‍🎓 A list of web development courses (free and paid)
 
+
+---
+
+### [Ultimate Courses - JavaScript Basics](https://ultimatecourses.com/learn/javascript-basics) `(free)`
+
 ---
 
 ### [Mastery with SQL](https://www.masterywithsql.com) `(paid)`
