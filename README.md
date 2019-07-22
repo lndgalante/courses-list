@@ -5,6 +5,10 @@
 
 ---
 
+### [Full Stack Open - University of Helsinki](https://fullstackopen.com/en) `(free)`
+
+---
+
 ### [Ultimate Courses - JavaScript Basics](https://ultimatecourses.com/learn/javascript-basics) `(free)`
 
 ---
