@@ -5,6 +5,10 @@
 
 ---
 
+### [Hasura - Real world GraphQL tutorials for frontend developers with deadlines!](https://learn.hasura.io) `(free)`
+
+---
+
 ### [Full Stack Open - University of Helsinki](https://fullstackopen.com/en) `(free)`
 
 ---
