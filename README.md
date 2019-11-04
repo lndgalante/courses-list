@@ -2,6 +2,9 @@
 
 > 👨‍🎓 A list of web development courses (free and paid)
 
+---
+
+### [Infinite Red - Academy](https://academy.infinite.red) `(free)`
 
 ---
 
