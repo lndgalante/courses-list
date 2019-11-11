@@ -4,6 +4,14 @@
 
 ---
 
+### [Newline - TinyHouse](https://www.newline.co/tinyhouse) `(paid)`
+
+---
+
+### [Practicum - Yandex](https://practicum.yandex.com/) `(free and paid)`
+
+---
+
 ### [Infinite Red - Academy](https://academy.infinite.red) `(free)`
 
 ---
