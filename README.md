@@ -4,6 +4,10 @@
 
 ---
 
+### [Bret Fisher - Courses](https://www.bretfisher.com/courses) `(paid)`
+
+---
+
 ### [Newline - TinyHouse](https://www.newline.co/tinyhouse) `(paid)`
 
 ---
