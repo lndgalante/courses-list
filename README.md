@@ -4,6 +4,10 @@
 
 ---
 
+### [Mastering Next.js - Lee Robinson](https://masteringnextjs.com) `(paid)`
+
+---
+
 ### [Bret Fisher - Courses](https://www.bretfisher.com/courses) `(paid)`
 
 ---
