@@ -4,6 +4,10 @@
 
 ---
 
+### [React Native School - Become an Expert React Native Developer One Lesson at a Time](https://www.reactnativeschool.com/) `(paid)`
+
+---
+
 ### [React12 - Build Apps That Power The World](https://react12.io) `(paid)`
 
 ---
