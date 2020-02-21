@@ -301,3 +301,7 @@
 ---
 
 ### [DataCamp](https://www.datacamp.com) `(free & paid)`
+
+---
+
+### [React Tutorial](https://react-tutorial.app) `(free & paid)`
