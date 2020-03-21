@@ -4,6 +4,10 @@
 
 ---
 
+### [AlgoExpert - Coding interview training videos](https://www.algoexpert.io) `(paid)`
+
+---
+
 ### [CoderPro - Coding interview training videos](https://www.techseries.dev/coderpro) `(paid)`
 
 ---
