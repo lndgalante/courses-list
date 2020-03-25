@@ -4,6 +4,10 @@
 
 ---
 
+### [Jad Joubran Courses - React & JS](https://jadjoubran.io) `(free and paid)`
+
+---
+
 ### [A Cloud Guru - Level up your skills with the leader in cloud certification training](https://acloud.guru) `(paid)`
 
 ---
