@@ -4,6 +4,10 @@
 
 ---
 
+### [A Cloud Guru - Level up your skills with the leader in cloud certification training](https://acloud.guru) `(paid)`
+
+---
+
 ### [AlgoExpert - Coding interview training videos](https://www.algoexpert.io) `(paid)`
 
 ---
