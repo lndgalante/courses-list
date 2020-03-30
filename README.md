@@ -4,6 +4,10 @@
 
 ---
 
+### [OctoCourses - Learn to build better web applications](https://octocourses.com) `(free and paid)`
+
+---
+
 ### [Jad Joubran Courses - React & JS](https://jadjoubran.io) `(free and paid)`
 
 ---
