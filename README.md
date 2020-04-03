@@ -4,6 +4,10 @@
 
 ---
 
+### [CleanCoders - Write code that sings](https://cleancoders.com/) `(free and paid)`
+
+---
+
 ### [OctoCourses - Learn to build better web applications](https://octocourses.com) `(free and paid)`
 
 ---
