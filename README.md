@@ -4,6 +4,10 @@
 
 ---
 
+### [DesignAcademy - Design principles for developers](https://www.designacademy.io/) `(free and paid)`
+
+---
+
 ### [CleanCoders - Write code that sings](https://cleancoders.com/) `(free and paid)`
 
 ---
