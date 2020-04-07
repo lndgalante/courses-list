@@ -260,7 +260,7 @@
 
 ---
 
-### [The Frontier](https://thefrontier.bignerdranch.com/screencasts?category=web) `(free and paid)`
+### [Big Nerd Ranch](https://www.bignerdranch.com/) `(free and paid)`
 
 ---
 
