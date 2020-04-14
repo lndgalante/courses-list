@@ -4,6 +4,10 @@
 
 ---
 
+### [ExamPro - AWS Obsessed Certification Training](https://www.exampro.co/) `(free and paid)`
+
+---
+
 ### [DesignAcademy - Design principles for developers](https://www.designacademy.io/) `(free and paid)`
 
 ---
