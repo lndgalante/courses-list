@@ -4,6 +4,10 @@
 
 ---
 
+### [Packt - Courses Collections](https://courses.packtpub.com/collections) `(free)`
+
+---
+
 ### [ExamPro - AWS Obsessed Certification Training](https://www.exampro.co/) `(free and paid)`
 
 ---
