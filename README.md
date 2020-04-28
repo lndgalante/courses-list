@@ -4,6 +4,10 @@
 
 ---
 
+### [Senzo - HomeSchool](https://homeschool.dev/class) `(paid)`
+
+---
+
 ### [Packt - Courses Collections](https://courses.packtpub.com/collections) `(free)`
 
 ---
