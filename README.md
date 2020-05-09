@@ -4,6 +4,10 @@
 
 ---
 
+### [Chris on Code](https://learn.chrisoncode.io) `(paid)`
+
+---
+
 ### [Senzo - HomeSchool](https://homeschool.dev/class) `(paid)`
 
 ---
