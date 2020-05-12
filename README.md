@@ -4,6 +4,10 @@
 
 ---
 
+### [Zero to Mastery](https://zerotomastery.io/courses) `(paid)`
+
+---
+
 ### [Chris on Code](https://learn.chrisoncode.io) `(paid)`
 
 ---
