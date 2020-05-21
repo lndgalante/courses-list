@@ -4,6 +4,10 @@
 
 ---
 
+### [ReactSecurity](https://courses.reactsecurity.io/) `(paid)`
+
+---
+
 ### [London App Brewbery](https://www.appbrewery.co/) `(paid)`
 
 ---
