@@ -4,6 +4,10 @@
 
 ---
 
+### [JAMStack Training](https://jamstack.training/) `(free)`
+
+---
+
 ### [ReactSecurity](https://courses.reactsecurity.io/) `(paid)`
 
 ---
