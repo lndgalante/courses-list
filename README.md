@@ -4,6 +4,10 @@
 
 ---
 
+### [RegexOne - Learn Regular Expressions with simple, interactive exercises](https://regexone.com/) `(free)`
+
+---
+
 ### [JAMStack Training](https://jamstack.training/) `(free)`
 
 ---
