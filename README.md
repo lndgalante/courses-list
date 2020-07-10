@@ -4,6 +4,10 @@
 
 ---
 
+### [Test Automation University](https://testautomationu.applitools.com/) `(free and paid)`
+
+---
+
 ### [Webflow University](https://university.webflow.com/) `(free)`
 
 ---
