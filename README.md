@@ -4,6 +4,10 @@
 
 ---
 
+### [Fireship Courses](https://fireship.io/courses/) `(free and paid)`
+
+---
+
 ### [Test Automation University](https://testautomationu.applitools.com/) `(free and paid)`
 
 ---
