@@ -4,6 +4,10 @@
 
 ---
 
+### [BrainStation Courses](https://brainstation.io/courses) `(paid)`
+
+---
+
 ### [Fireship Courses](https://fireship.io/courses/) `(free and paid)`
 
 ---
