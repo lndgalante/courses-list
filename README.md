@@ -4,6 +4,10 @@
 
 ---
 
+### [Execute Program](https://www.executeprogram.com/) `(free and paid)`
+
+---
+
 ### [BrainStation Courses](https://brainstation.io/courses) `(paid)`
 
 ---
