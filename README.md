@@ -4,6 +4,10 @@
 
 ---
 
+### [UI.dev](https://ui.dev/courses/) `(paid)`
+
+---
+
 ### [Bulletproof Next](https://getstarted.sh/bulletproof-next) `(free)`
 
 ---
