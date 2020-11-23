@@ -4,6 +4,10 @@
 
 ---
 
+### [CodingHeroes](https://codingheroes.io/) `(paid)`
+
+---
+
 ### [UI.dev](https://ui.dev/courses/) `(paid)`
 
 ---
