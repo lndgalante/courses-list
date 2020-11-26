@@ -4,6 +4,10 @@
 
 ---
 
+### [Code with Mosh](https://codewithmosh.com/) `(paid)`
+
+---
+
 ### [CodingHeroes](https://codingheroes.io/) `(paid)`
 
 ---
