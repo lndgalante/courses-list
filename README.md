@@ -4,6 +4,10 @@
 
 ---
 
+### [Smiley In Motion (Framer Motion)](https://smileyinmotion.com/) `(paid)`
+
+---
+
 ### [Code with Mosh](https://codewithmosh.com/) `(paid)`
 
 ---
