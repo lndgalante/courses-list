@@ -4,6 +4,10 @@
 
 ---
 
+### [Web Security Academy](https://websecurity-academy.com) `(paid)`
+
+---
+
 ### [Smiley In Motion (Framer Motion)](https://smileyinmotion.com/) `(paid)`
 
 ---
