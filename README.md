@@ -4,6 +4,10 @@
 
 ---
 
+### [Three.js Journey](https://threejs-journey.xyz) `(paid)`
+
+---
+
 ### [Web Security Academy](https://websecurity-academy.com) `(paid)`
 
 ---
