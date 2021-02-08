@@ -4,6 +4,10 @@
 
 ---
 
+### [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) `(free)`
+
+---
+
 ### [Three.js Journey](https://threejs-journey.xyz) `(paid)`
 
 ---
