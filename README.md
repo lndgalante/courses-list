@@ -4,6 +4,10 @@
 
 ---
 
+### [Mastering Vim](https://www.vim.so/) `(paid)`
+
+---
+
 ### [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) `(free)`
 
 ---
