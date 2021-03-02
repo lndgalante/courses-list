@@ -4,6 +4,10 @@
 
 ---
 
+### [ShiftNudge - Design](https://shiftnudge.com/) `(paid)`
+
+---
+
 ### [Mastering Vim](https://www.vim.so/) `(paid)`
 
 ---
