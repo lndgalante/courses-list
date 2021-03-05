@@ -4,6 +4,10 @@
 
 ---
 
+### [Interactive React](https://interactive-react.com/) `(paid)`
+
+---
+
 ### [ShiftNudge - Design](https://shiftnudge.com/) `(paid)`
 
 ---
