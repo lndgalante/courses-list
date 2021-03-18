@@ -4,6 +4,10 @@
 
 ---
 
+### [CSS for JS developers](https://css-for-js.dev/) `(paid)`
+
+---
+
 ### [Interactive React](https://interactive-react.com/) `(paid)`
 
 ---
