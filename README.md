@@ -276,6 +276,10 @@
 
 ---
 
+### [Coursera - Google Certificates](https://www.coursera.org/google-career-certificates) `(paid)`
+
+---
+
 ### [Coursera](https://www.coursera.org) `(free and paid)`
 
 ---
