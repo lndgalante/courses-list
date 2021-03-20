@@ -4,6 +4,10 @@
 
 ---
 
+### [Learnetto](https://learnetto.com/) `(free and paid)`
+
+---
+
 ### [CSS for JS developers](https://css-for-js.dev/) `(paid)`
 
 ---
