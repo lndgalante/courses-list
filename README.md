@@ -445,3 +445,7 @@
 ---
 
 ### [DataCamp](https://www.datacamp.com) `(free & paid)`
+
+---
+
+### [GDQuest Courses](https://gdquest.mavenseed.com/courses/) `(paid)`
