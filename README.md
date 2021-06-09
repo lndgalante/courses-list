@@ -4,6 +4,10 @@
 
 ---
 
+### [React Trainings](https://reacttraining.com/) `(paid)`
+
+---
+
 ### [Learnetto](https://learnetto.com/) `(free and paid)`
 
 ---
