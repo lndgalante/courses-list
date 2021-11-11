@@ -4,6 +4,10 @@
 
 ---
 
+### [DappCamp](https://www.dappcamp.xyz) `(paid)`
+
+---
+
 ### [Better Dev](https://www.better.dev/courses) `(paid)`
 
 ---
