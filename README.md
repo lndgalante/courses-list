@@ -4,6 +4,10 @@
 
 ---
 
+### [Kent C. Dodds - Remote Workshops](https://kentcdodds.com/workshop) `(paid)`
+
+---
+
 ### [DappCamp](https://www.dappcamp.xyz) `(paid)`
 
 ---
