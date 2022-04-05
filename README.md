@@ -4,6 +4,10 @@
 
 ---
 
+### [TypeScript Course - Joe Previte](https://www.typescriptcourse.com/) `(free)`
+
+---
+
 ### [Kent C. Dodds - Remote Workshops](https://kentcdodds.com/workshop) `(paid)`
 
 ---
