@@ -4,6 +4,10 @@
 
 ---
 
+### [Codely](https://pro.codely.tv/library/) `(paid)`
+
+---
+
 ### [TypeScript Course - Joe Previte](https://www.typescriptcourse.com/) `(free)`
 
 ---
