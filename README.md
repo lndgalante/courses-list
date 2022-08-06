@@ -4,6 +4,10 @@
 
 ---
 
+### [Total TypeScript](https://www.totaltypescript.com/) `(paid)`
+
+---
+
 ### [Codely](https://pro.codely.tv/library/) `(paid)`
 
 ---
