@@ -4,6 +4,10 @@
 
 ---
 
+### [The Gymnasium](https://thegymnasium.com/courses) `(free)`
+
+---
+
 ### [Total TypeScript](https://www.totaltypescript.com/) `(paid)`
 
 ---
