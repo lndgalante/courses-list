@@ -4,6 +4,10 @@
 
 ---
 
+### [Type Level TypeScript](https://type-level-typescript.com) `(free)`
+
+---
+
 ### [The Gymnasium](https://thegymnasium.com/courses) `(free)`
 
 ---
