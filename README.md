@@ -4,6 +4,10 @@
 
 ---
 
+### [VSCode Hero](https://www.vscodehero.com) `(paid)`
+
+---
+
 ### [Type Level TypeScript](https://type-level-typescript.com) `(free)`
 
 ---
