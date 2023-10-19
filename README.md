@@ -4,6 +4,10 @@
 
 ---
 
+### [Query.gg](https://query.gg) `(paid)`
+
+---
+
 ### [React.gg](https://react.gg) `(paid)`
 
 ---
