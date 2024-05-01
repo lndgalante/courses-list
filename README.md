@@ -4,6 +4,10 @@
 
 ---
 
+### [Animations on the Web](https://animations.dev) `(paid)`
+
+---
+
 ### [Query.gg](https://query.gg) `(paid)`
 
 ---
