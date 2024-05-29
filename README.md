@@ -4,6 +4,10 @@
 
 ---
 
+### [Google - Web Dev Learn](https://web.dev/learn) 
+
+---
+
 ### [Animations on the Web](https://animations.dev) `(paid)`
 
 ---
