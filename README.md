@@ -4,7 +4,7 @@
 
 ---
 
-### [Google - Web Dev Learn](https://web.dev/learn) 
+### [Google - Web Dev Learn](https://web.dev/learn) `(free)`
 
 ---
 
