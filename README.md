@@ -4,7 +4,7 @@
 
 ---
 
-### [Sara Soueidan - Practical Accessibility]([https://web.dev/learn](https://practical-accessibility.today) `(free)`
+### [Sara Soueidan - Practical Accessibility](https://practical-accessibility.today) `(free)`
 
 ---
 
