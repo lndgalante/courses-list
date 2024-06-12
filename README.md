@@ -4,6 +4,14 @@
 
 ---
 
+### [Sara Soueidan - Practical Accessibility]([https://web.dev/learn](https://practical-accessibility.today) `(free)`
+
+---
+
+### [WaWa Sensei - React Three Fiber: The Ultimate Guide to 3D Web Development](https://lessons.wawasensei.dev/courses/react-three-fiber) `(free)`
+
+---
+
 ### [Google - Web Dev Learn](https://web.dev/learn) `(free)`
 
 ---
