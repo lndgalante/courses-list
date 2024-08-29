@@ -4,6 +4,10 @@
 
 ---
 
+### [Aaron Francis - High Performance SQLite](https://highperformancesqlite.com/) `(free)`
+
+---
+
 ### [Sara Soueidan - Practical Accessibility](https://practical-accessibility.today) `(free)`
 
 ---
