@@ -4,6 +4,10 @@
 
 ---
 
+### [Nanda Syahrasyad - Interaactive SVG Animations](https://www.svg-animations.how/) `(paid)`
+
+---
+
 ### [Aaron Francis - High Performance SQLite](https://highperformancesqlite.com/) `(free)`
 
 ---
