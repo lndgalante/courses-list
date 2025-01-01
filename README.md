@@ -4,6 +4,10 @@
 
 ---
 
+### [Galaxy.dev - React Native Tutoriales](https://galaxies.dev/) `(paid)`
+
+---
+
 ### [Nanda Syahrasyad - Interaactive SVG Animations](https://www.svg-animations.how/) `(paid)`
 
 ---
