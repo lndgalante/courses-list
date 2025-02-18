@@ -4,6 +4,10 @@
 
 ---
 
+### [Boot.dev - Learn backend development the smart way](https://boot.dev) `(paid)`
+
+---
+
 ### [Galaxy.dev - React Native Tutoriales](https://galaxies.dev/) `(paid)`
 
 ---
