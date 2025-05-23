@@ -4,6 +4,10 @@
 
 ---
 
+### [Deep Dive: TypeScript](https://dometrain.com/course/deep-dive-typescript/) `(paid)`
+
+---
+
 ### [Boot.dev - Learn backend development the smart way](https://boot.dev) `(paid)`
 
 ---
