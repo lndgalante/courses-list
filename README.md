@@ -2,6 +2,12 @@
 
 > 👨‍🎓 A list of web development courses (free and paid)
 
+
+
+---
+
+### [Rauno: Devouring Details](https://devouringdetails.com/) `(paid)`
+
 ---
 
 ### [Deep Dive: TypeScript](https://dometrain.com/course/deep-dive-typescript/) `(paid)`
