@@ -6,6 +6,10 @@
 
 ---
 
+### [TypeCraft Courses](https://typecraft.dev/) `(free)`
+
+---
+
 ### [Rauno: Devouring Details](https://devouringdetails.com/) `(paid)`
 
 ---
