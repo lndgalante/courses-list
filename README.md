@@ -3,6 +3,9 @@
 > 👨‍🎓 A list of web development courses (free and paid)
 
 
+---
+
+### [Database School - Aaron Francis](https://databaseschool.com/) `(free)`
 
 ---
 
