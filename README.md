@@ -5,7 +5,7 @@
 
 ---
 
-### [Database School - Aaron Francis](https://databaseschool.com/) `(free)`
+### [Database School - Aaron Francis](https://databaseschool.com/) `(free and paid)`
 
 ---
 
