@@ -5,6 +5,10 @@
 
 ---
 
+### [Visual Types - Kit Langton](https://types.kitlangton.com) `(free)`
+
+---
+
 ### [Database School - Aaron Francis](https://databaseschool.com/) `(free and paid)`
 
 ---
