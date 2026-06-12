@@ -5,6 +5,10 @@
 
 ---
 
+### [JSMastery - Adrian Hajdin](https://jsmastery.com) `(paid)`
+
+---
+
 ### [Visual Types - Kit Langton](https://types.kitlangton.com) `(free)`
 
 ---
