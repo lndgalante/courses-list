@@ -2,6 +2,9 @@
 
 > 👨‍🎓 A list of web development courses (free and paid)
 
+https://invisibledetails.com/
+
+### [Invisible Details - dmytro](https://invisibledetails.com) `(paid)`
 
 ---
 
