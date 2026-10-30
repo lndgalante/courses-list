@@ -3,6 +3,11 @@
 > 👨‍🎓 A list of web development courses (free and paid)
 
 
+
+### [Invisible Details - dmytro](https://aiforui.dev/) `(paid)`
+
+---
+
 ### [Invisible Details - dmytro](https://invisibledetails.com) `(paid)`
 
 ---
